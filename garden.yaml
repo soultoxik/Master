@@ -1,0 +1,8 @@
+version: 1
+sources:
+  - folder: A
+    origin: https://github.com/soultoxik/A
+  - folder: B
+    origin: https://github.com/soultoxik/B
+  - folder: Deps
+    origin: https://github.com/soultoxik/Deps
